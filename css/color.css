@@ -1,0 +1,17 @@
+:root {
+    --one: #d30050;
+    --two: #686663;
+    --three: #ffffff;
+    --four: #cda34d;
+    --five: #337ab7;
+    --six: #ffecb3;
+    --seven: #333333;
+    --eight: #cccccc;
+    --nine: #cccc99;
+    --ten: #cc9966;
+    --eleven: #99cccc;
+    --twelve: #2f2e2c;
+
+    --font-main: 'montserrat';
+    --font-icon: 'Font Awesome 5 Pro';
+}
