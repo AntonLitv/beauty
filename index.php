@@ -395,4 +395,5 @@
 
 </body>
 </html>
-<!-- Разработа >> lcdt@ya.ru >> Anton Litvinov -->
+<!-- github.com/AntonLitv -->
+<!-- yygo.ru/beauty -->
